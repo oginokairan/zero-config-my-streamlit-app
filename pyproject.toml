@@ -1,0 +1,10 @@
+[project]
+name = "my-streamlit-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "squadbase-streamlit>=0.0.1",
+    "streamlit>=1.48.0",
+]
